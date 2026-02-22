@@ -1,0 +1,1 @@
+Son funciones que retornan la representación de cómo se debe mostrar en la interfaz. Además puede manejar su propio [[estado]].

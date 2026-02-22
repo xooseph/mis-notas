@@ -1,0 +1,1 @@
+El estado de un elemento corresponde a las variables de dicho elemento y su valor.
