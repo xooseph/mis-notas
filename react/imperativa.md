@@ -1,1 +1,0 @@
-Paso a paso le decimos al programa cómo hacer algo, en este estilo importa el cómo más que el qué.
