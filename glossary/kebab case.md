@@ -1,0 +1,1 @@
+Es una forma de escribir frases, en minúsculas y sin espacios, estos últimos se reemplazan con `-`.

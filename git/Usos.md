@@ -1,0 +1,4 @@
+- Historial
+- Almacenar código
+- Trabajar en equipo
+- Cuándo se introdujo un error

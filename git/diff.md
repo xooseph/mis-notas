@@ -1,0 +1,1 @@
+Visualiza cambios en el directorio de trabajo, con la flag `--staged` se muestran los cambios que están en la etapa de **staging**.
