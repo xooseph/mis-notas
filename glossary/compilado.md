@@ -1,0 +1,1 @@
+Un programa escrito en un lenguaje compilado, puede tener el ejecutable un usuario sin tener instalado dicho lenguaje.
