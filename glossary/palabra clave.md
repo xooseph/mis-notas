@@ -1,0 +1,1 @@
+Aquella que está reservada para el uso del lenguaje. Algunas no tienen aún funcionalidad.
