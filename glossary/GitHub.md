@@ -1,0 +1,1 @@
+Herramienta que permite almacenar repos remotos y gestionar proyectos de software de principio a fin.
