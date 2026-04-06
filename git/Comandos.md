@@ -1,5 +1,6 @@
 ## [[config]]
 ## [[init]]
+## [[clone]]
 ## [[commit]]
 ## [[add]]
 ## [[status]]
@@ -8,4 +9,4 @@
 ## [[log]]
 ## [[checkout]]
 ## [[remote]]
-## [[push]]
+## [[push y pull]]
