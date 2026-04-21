@@ -5,5 +5,6 @@
 ## [[Variables y mutabilidad]]
 ### [[Constantes]]
 ### [[Shadowing]]
+### [[Tipos de datos]]
 
 ## ❓[[Quizzes]]
