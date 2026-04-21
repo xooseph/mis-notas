@@ -1,0 +1,1 @@
+Software que permite la comunicación entre diferentes aplicaciones.

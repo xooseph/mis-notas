@@ -1,0 +1,1 @@
+Eliminación de HTML o JS malintencionado.
