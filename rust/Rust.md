@@ -6,5 +6,6 @@
 ### [[Constantes]]
 ### [[Shadowing]]
 ### [[Tipos de datos]]
-
+### [[Funciones]]
+### [[Flujo de control]]
 ## ❓[[Quizzes]]

@@ -26,4 +26,28 @@
 9. Si `x: u8 = 0`, ¿qué pasará si se realiza la operación `x - 1`?
 		Depende del modo de compilación.
 
-10. 
+10. La palabra clave para declarar una nueva función en Rust es:
+		`fn`
+
+11. En Rust, un bloque como `{ /* ... */ }` es:
+		Una expresión y un alcance sintáctico.
+
+12. ¿Ejecutar los siguientes bloques de código resulta en el mismo valor para `x`?
+	*Bloque 1:*
+	```rust
+	let x = if cond { 1 } else { 2 };
+	```
+	*Bloque 2*:
+	```rust
+	let x;
+	if cond {
+		x = 1;
+	} else {
+		x = 2;
+	}
+	```
+	*NOTA*: Ambos bloques *SÍ* compilan.
+
+	Verdadero.
+
+13. 
