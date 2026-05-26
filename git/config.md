@@ -7,13 +7,17 @@ Configura un repositorio u opciones globales.
 - `git config --global -e`
 		Ve el archivo de configuración global
 
-Depende del sistema que se está utilizando, cada que se agrega un saltó de línea, Windows agrega dos carácteres especiales **(Carriage Return) CR** y **(Line Feed) LF**, mientras que en Linux o Mac solo añade LF, para evitar conflicto, colocar `true` o `input` respectivamente:
+Depende del sistema que se está utilizando, cada que se agrega un salto de línea, Windows agrega dos carácteres especiales **(Carriage Return) CR** y **(Line Feed) LF**, mientras que en Linux o Mac solo añade LF, para evitar conflicto, colocar `true` o `input` respectivamente:
 
 - `git config --global core.autocrlf input`
 
 - `git config --list`
 		Lista configuración, también se puede buscar por un elemento en específico: 
 			- `git config user.name`
+
+Se puede cambiar el color de ciertas partes que se muestran en la terminal, por ejemplo, que se vea de color magenta el nombre de la rama actual:
+	
+- `git config color.status.branch magenta`
 
 ## Llave SSH
 
