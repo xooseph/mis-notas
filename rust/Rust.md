@@ -8,4 +8,7 @@
 ### [[Tipos de datos]]
 ### [[Funciones]]
 ### [[Flujo de control]]
+# Entendiendo el Ownership
+### [[Ownership]]
+
 ## ❓[[Quizzes]]
